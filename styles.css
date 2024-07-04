@@ -43,6 +43,26 @@ main {
     padding: 20px;
 }
 
+.episode-details {
+    margin-top: 1rem;
+    padding: 1rem;
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+}
+
+.episode-details p {
+    margin: 0.5rem 0;
+}
+
+.episode-details ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.episode-details li {
+    margin: 0.5rem 0;
+}
+
 footer {
     background-color: #333;
     color: white;
