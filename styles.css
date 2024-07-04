@@ -44,6 +44,8 @@ nav ul li a {
 
 main {
     padding: 20px;
+    flex: 1;
+    overflow-y: auto;
 }
 
 .episode-details {
@@ -71,6 +73,7 @@ footer {
     color: white;
     text-align: center;
     padding: 10px 20px;
+    position: fixed;
     bottom: 0;
     width: 100%;
     max-height: 50px;
