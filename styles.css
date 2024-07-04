@@ -46,7 +46,7 @@ main {
     padding: 20px;
     flex: 1;
     overflow-y: auto;
-    min-height: calc(100vh - 50px);
+    margin-bottom: 50px;
 }
 
 .episode-details {
