@@ -81,6 +81,10 @@ audio {
     width: 100%;
   }
 
+  #staticGif{
+    width: 100%;
+  }
+
 
 .episode-details p {
     margin: 0.5rem 0;
