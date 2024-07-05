@@ -82,6 +82,8 @@ audio {
   }
 
   #staticGif{
+    max-height: 100vh;
+    max-width: 100vw;
     width: 100%;
   }
 
