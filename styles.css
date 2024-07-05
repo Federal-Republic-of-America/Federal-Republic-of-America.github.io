@@ -56,6 +56,31 @@ main {
     border: 1px solid #ddd;
 }
 
+
+audio {
+    width: 100%;
+  }
+
+  section#latest-episode{
+    padding-bottom: 20%;
+  }
+  
+  section#latest-episode > h2{
+    margin: 0px 10px;
+    text-align: center;
+    padding-bottom: 15px;
+  }
+  div.radio{
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+  
+  #animatedGif{
+    width: 100%;
+  }
+
+  
+
 .episode-details p {
     margin: 0.5rem 0;
 }
@@ -68,6 +93,8 @@ main {
 .episode-details li {
     margin: 0.5rem 0;
 }
+
+
 
 footer {
     background-color: #333;
